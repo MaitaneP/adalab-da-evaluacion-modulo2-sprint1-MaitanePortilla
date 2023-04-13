@@ -10,6 +10,14 @@ La documentación se ha organizado en las siguientes carpetas:
     * [***top10-artistas-colaboraciones-countplot.png***](https://github.com/Adalab/DA-promoD-Mod2-sprint1-MaitanePortilla/blob/main/graficos/top10-artistas-colaboraciones-countplot.png): contiene el gráfico de top10 de artistas con mayor número de colaboraciones obtenido directamente con un countplot.
     * [***top10-visionados-me-gusta.png***](https://github.com/Adalab/DA-promoD-Mod2-sprint1-MaitanePortilla/blob/main/graficos/top10-visionados-me-gusta.png): contiene el subplot con las gráficas del top10 de artistas con más visionados y con más "me gusta".
     * [***top10-visionados-me-gusta-single.png***](https://github.com/Adalab/DA-promoD-Mod2-sprint1-MaitanePortilla/blob/main/graficos/top10-visionados-me-gusta-single.png): contiene el subplot con las gráficas del top10 de artistas con más visionados y con más "me gusta" para las canciones de tipo single.
+    * [***top15-artistas-colaboraciones-countplot.png***](https://github.com/Adalab/DA-promoD-Mod2-sprint1-MaitanePortilla/blob/main/graficos/top15-artistas-colaboraciones-countplot.png): contiene el gráfico de top15 de artistas con mayor número de colaboraciones obtenido directamente con un countplot.
 - **Notebooks:** Se incluyen los siguientes archivos:
     * [***evaluacion-mod-2-sprint-1-numpy.ipynb***](https://github.com/Adalab/DA-promoD-Mod2-sprint1-MaitanePortilla/blob/main/notebooks/evaluacion-mod-2-sprint-1-numpy.ipynb): contiene los ejercicios de Numpy.
     * [***evaluacion-mod-2-sprint-1-pandas.ipynb***](https://github.com/Adalab/DA-promoD-Mod2-sprint1-MaitanePortilla/blob/main/notebooks/evaluacion-mod-2-sprint-1-pandas.ipynb): contiene los ejercicios de Pandas.
+
+A continuación se incluye un listado de las librerías utilizadas:
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - re
